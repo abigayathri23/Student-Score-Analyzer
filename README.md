@@ -4,7 +4,9 @@
 A simple Python mini-project that analyzes students' performance based on exam scores using `pandas`, `matplotlib`, and `seaborn`. This project is beginner-friendly and great for practicing data analysis with Python.
 
 ## 📁 Project Structure
-student-performance-analyzer/ ├── StudentsPerformance.csv # Dataset file └── analyzer.py # Python script for analysis markdown
+student-performance-analyzer/
+ ├── StudentsPerformance.csv # Dataset file 
+ └── analyzer.py # Python script for analysis markdown
 
 ## 📊 Features
 
@@ -23,3 +25,16 @@ student-performance-analyzer/ ├── StudentsPerformance.csv # Dataset file �
 ### Install dependencies:
 ```bash
 pip install pandas matplotlib seaborn
+```
+## ▶️ How to Run
+Clone the repository or download the ZIP
+
+Place the dataset (exams.csv) in the same folder as analyzer.py
+
+Open VS Code terminal
+
+Run the script:
+
+```bash
+python analyzer.py
+```
